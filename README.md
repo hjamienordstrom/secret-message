@@ -1,8 +1,7 @@
-# secret-message
+Secret Message
 
+Send an encoded message to your friend. For their eyes only!
 
-What I learned
+Deployed App
 
-Deployed app
-
-https://secret-message-sigma-one.vercel.app/index.html
+https://hjamienordstrom.github.io/secret-message/
